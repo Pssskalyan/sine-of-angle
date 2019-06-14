@@ -1,0 +1,7 @@
+import math
+
+a=int(input())
+ 
+sine_a = round(math.sin(math.radians(a)),1)
+ 
+print (int(sine_a))
